@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Bike Wallpaper</string>
+    <string name="open" />
+    <string name="close" />
+    <string name="sw">Set Wallpaper</string>
+    <string name="download">Download Wallpaper</string>
+    <string name="share">Share Wallpaper</string>
+    <string name="facebook_app_id">473569147185077</string>
+</resources>

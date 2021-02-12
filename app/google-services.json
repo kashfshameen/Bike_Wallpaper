@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "518989480237",
+    "firebase_url": "https://bike-wallpaper-eab77-default-rtdb.firebaseio.com",
+    "project_id": "bike-wallpaper-eab77",
+    "storage_bucket": "bike-wallpaper-eab77.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518989480237:android:0a8de567e0fd2c5f88d3a4",
+        "android_client_info": {
+          "package_name": "com.kashf.developer.bikewallpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "518989480237-hfq9h7uilh0fg6p9obuhdspp6gfvbjjm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kashf.developer.bikewallpaper",
+            "certificate_hash": "d78e7bf9b39d7db396eb6564e49306af9fa0ee5b"
+          }
+        },
+        {
+          "client_id": "518989480237-dobvbv7d5nnvnonu839vo54hiavbcdat.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVBAgC2rPy7LkkfNHcKjVzYBu-flAqqtA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "518989480237-dobvbv7d5nnvnonu839vo54hiavbcdat.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
